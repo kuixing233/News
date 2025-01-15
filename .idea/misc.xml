@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/File/News/app/src/main/res/layout/activity_detail.xml" value="0.13958333333333334" />
+        <entry key="..\:/File/News/app/src/main/res/layout/activity_main.xml" value="0.1933876811594203" />
+        <entry key="..\:/File/News/app/src/main/res/layout/fragment_news.xml" value="0.1933876811594203" />
+        <entry key="..\:/File/News/app/src/main/res/layout/news_item_one_image.xml" value="0.1933876811594203" />
+        <entry key="..\:/File/News/app/src/main/res/xml/network_security_config.xml" value="0.1375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
